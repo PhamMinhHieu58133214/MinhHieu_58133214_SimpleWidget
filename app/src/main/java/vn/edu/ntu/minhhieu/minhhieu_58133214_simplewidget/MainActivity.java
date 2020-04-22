@@ -30,11 +30,11 @@ public class MainActivity extends AppCompatActivity {
         edtNgaySinh = findViewById(R.id.edtNgaySinh);
         edtSoThichKhac = findViewById((R.id.edtSoThichKhac));
         rdgGioiTinh = findViewById(R.id.rdgGioiTinh);
-        cbPhim = (CheckBox) findViewById(R.id.cbPhim);
-        cbMP3 = (CheckBox) findViewById(R.id.cbMP3);
-        cbCafe = (CheckBox) findViewById(R.id.cbCafe);
-        cbAlone = (CheckBox) findViewById(R.id.cbAlone);
-        cbNauAn = (CheckBox) findViewById(R.id.cbNauAn);
+        cbPhim =  findViewById(R.id.cbPhim);
+        cbMP3 = findViewById(R.id.cbMP3);
+        cbCafe =  findViewById(R.id.cbCafe);
+        cbAlone =  findViewById(R.id.cbAlone);
+        cbNauAn = findViewById(R.id.cbNauAn);
         btnXacNhan = findViewById(R.id.btnXacNhan);
     }
 
