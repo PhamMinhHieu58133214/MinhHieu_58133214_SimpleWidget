@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
     }
     private void addViews(){
         edtTen = findViewById(R.id.edtTen);
-        edtNgaySinh = findViewById(R.id.edtNgaySinh);
+        edtNgaySinh = findViewById(R.id.edtNgaySinh); 
         edtSoThichKhac = findViewById((R.id.edtSoThichKhac));
         rdgGioiTinh = findViewById(R.id.rdgGioiTinh);
         cbPhim =  findViewById(R.id.cbPhim);
