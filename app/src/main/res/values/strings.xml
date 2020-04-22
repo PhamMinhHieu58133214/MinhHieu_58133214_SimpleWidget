@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">MinhHieu_58133214_SimpleWidget</string>
+    <string name="app_name">SW Minh Hiếu</string>
+
+<!--    <string name="ten">Tên</string>-->
+<!--    <string name="ngaySinh">NgaySinh</string>-->
+<!--    <string name="nam">Nam</string>-->
+<!--    <string name="nu">Nữ</string>-->
+<!--    <string name="phim">Xem phim</string>-->
+<!--    <string name="mp3">Nghe nhạc</string>-->
+<!--    <string name="cafe">Đi cà phê với bạn</string>-->
+<!--    <string name="alone">Ở nhà một mình</string>-->
+<!--    <string name="nauAn">Vào bếp nấu ăn</string>-->
 </resources>
