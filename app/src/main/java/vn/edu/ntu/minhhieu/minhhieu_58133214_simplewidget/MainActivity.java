@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     EditText edtTen, edtNgaySinh,edtSoThichKhac;
     RadioGroup rdgGioiTinh;
     CheckBox cbPhim,cbMP3,cbCafe,cbAlone,cbNauAn;
-    Button btnXacNhan;
+    Button btnXacNhan; 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
